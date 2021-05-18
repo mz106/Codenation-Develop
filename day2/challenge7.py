@@ -1,5 +1,6 @@
 
-#Challenge 7 checks if an input (integer or string) is a palindrome 
+# Challenge 7 checks if an input (integer or string) is a palindrome 
+# First version returns folowing error : TypeError: 'int' object is not subscriptable
 
 def palindrome_checker(par):
 
